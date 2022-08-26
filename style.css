@@ -75,3 +75,12 @@ span{
 .details a:hover{
     color: red;
 }
+
+.image {
+    width: 25%;
+    height: 80%;
+    position: absolute;
+    margin-right: 5cm;
+    bottom: 0%;
+    right: 100px;
+}
